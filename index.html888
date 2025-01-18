@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Police Verification Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            background-color: #007BFF; /* Blue color */
+            color: white;
+            text-align: center;
+            padding: 10px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .sub-header {
+            background-color: #007BFF; /* Navy blue color */
+            color: white;
+            text-align: center;
+            padding: 5px;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .content {
+            border: 2px solid #007BFF;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            position: relative;
+        }
+        .content img {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            border: 2px solid #007BFF;
+            border-radius: 5px;
+        }
+        .details {
+            padding-right: 140px; /* To adjust space for image */
+        }
+        .details p {
+            margin: 5px 0;
+        }
+        .details p strong {
+            display: inline-block;
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">POLICE VERIFICATION SERVICES</div>
+
+    <div class="sub-header">PERSONAL DETAILS</div>
+
+    <div class="content">
+        <img src="file:///home/motuaad6566/Desktop/mootu.jpg" alt="Person Image" width="80" height="80">
+        <div class="details">
+            <p><strong>PVR No       :</strong> S5892400464462</p>
+            <p><strong>Date of Issue:</strong> 24-11-2024</p>
+        </div>
+    </div>
+
+    
+            <p>This is to certify that Mr. <strong>AJITH M S/O MURUGAN</strong> is currently residing at: <strong>2/229A, PULIYADI, CBHPO, VADASERY, NAGERCOIL, KANYAKUMARI District, 629001.</strong>He is not found to be involved in any criminal case as per the records available with the Police Department.</p>
+        </div>
+    </div>
+</body>
+</html>
